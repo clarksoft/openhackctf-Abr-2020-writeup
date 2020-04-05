@@ -19,6 +19,7 @@ crunch 5 5 marte13 >dict
 y utilizar alguna de las tantas herramientas que hay para bruteforcear steghide.
 
 si no tienes ninguna, también se puede hacer por bash
+
 for i in $(cat dict);do echo $i:; steghide extract -sf capitan.jpg -p $i | grep -v not ;done
 
 al terminar la revisión ya tendrán su flag.
