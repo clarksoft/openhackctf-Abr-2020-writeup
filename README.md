@@ -3,8 +3,9 @@
 Cómo fui el único que logró resolver dos de los desafíos del openhackCTF de abril 2020, he querido compartir la información de modo que puedan entender la resolución de ellos.
 
 Vamos al grano.
-"Desde Rusia enviaron un mensaje oculto en una imagen. Usted la capturó y nota algo extraño en la imagen y piensa que pueden ser pistas. Debe obtener el mensaje oculto y validar la flag. Descargue la imagen para obtener lo que trae oculto."
 
+Steg3
+"Desde Rusia enviaron un mensaje oculto en una imagen. Usted la capturó y nota algo extraño en la imagen y piensa que pueden ser pistas. Debe obtener el mensaje oculto y validar la flag. Descargue la imagen para obtener lo que trae oculto."
 Capitan.jpg
 
 Efectívamente eran pistas. la imagen primero la puse bajo el buscador para reconocer quien era (me parecía haberlo visto en la caja de un cereal)
