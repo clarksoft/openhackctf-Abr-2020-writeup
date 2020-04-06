@@ -29,9 +29,11 @@ DICOM
 
 Para este caso, seguramente era necesario tener conocimientos previos y eficientes sobre la vulnerabilidad de seguridad que tienen los sistemas DICOM (Digital Imaging and Communications in Medicine)
 yo lo aprendí gracias a la investigación personal que hice tras leer este post del gran Tito S4vitar
+
 https://s4vitar.github.io/hospital-dicom-exposure/
 
 es por ello que simplemente tomé la IP y el nombre del paciente, lo agregué a mi visualizador y obtube el ID necesario para terminar el desafío.
 
+2003311325191469
 
 Espero que les haya sido de utilidad.
